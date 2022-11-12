@@ -1,7 +1,7 @@
 import glob
 
-NEG_PATTERN = r"C:\Users\Sasy\neg\*.txt"
-POS_PATTERN = r"C:\Users\Sasy\pos\*.txt"
+NEG_PATTERN = #hardcoded path to the file
+POS_PATTERN = #hardcoded path to the file
 
 
 neg_files = glob.glob(NEG_PATTERN)
